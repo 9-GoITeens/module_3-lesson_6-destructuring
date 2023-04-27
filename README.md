@@ -1,0 +1,1 @@
+# module_3-lesson_6-destructuring
